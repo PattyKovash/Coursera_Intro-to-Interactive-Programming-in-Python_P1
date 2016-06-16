@@ -1,4 +1,5 @@
 # Rock-paper-scissors-lizard-Spock template
+# My CodeSkulptor url: http://www.codeskulptor.org/#user41_wrFEdUrVIpFqCWB.py
 import random
 
 # The key idea of this program is to equate the strings
